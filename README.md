@@ -1,2 +1,2 @@
 # alu-interview
-Alu Interview
+ALU Interview
